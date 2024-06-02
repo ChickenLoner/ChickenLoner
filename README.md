@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ChickenLoner
+- 👋 Hi, I’m @ChickenLoner / Chicken_0248
 - 👀 I’m interested in Cybersecurity
-- 🌱 I’m currently learning basic pentesting and computer engineering
-- 📫 My email is warawut_manosong@hotmail.com if you want to reach me
+- 🌱 I’m an aspising SOC Analyst / Threat Hunter working as government officer.
+- 📫 My email is warawut_manosong@hotmail.com if you want to reach out
 
 <!---
 ChickenLoner/ChickenLoner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
